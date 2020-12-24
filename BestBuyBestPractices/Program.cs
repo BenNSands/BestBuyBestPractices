@@ -6,7 +6,7 @@ namespace BestBuyBestPractices
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }
